@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.kuraion.ante.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "ante.mixins.refmap.json",
+  "mixins": [
+    "AnvilScreenMixin",
+    "AnvilMenuMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
