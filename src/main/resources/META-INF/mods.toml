@@ -4,7 +4,7 @@ license="GNU GPLv3"
 
 [[mods]]
 modId="ante"
-version="1.0"
+version="1.1"
 displayName="Anvil Never Too Expensive"
 credits="Huge credit to my constant anger towards the 'Too Expensive' message in the anvil GUI!"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/anvil-never-too-expensive"

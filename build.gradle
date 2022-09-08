@@ -20,7 +20,7 @@ apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 apply plugin: 'pmd'
 
-version = '1.0'
+version = '1.1'
 group = 'com.kuraion.ante'
 archivesBaseName = 'ante'
 
@@ -112,7 +112,7 @@ dependencies {
 }
 
 jar {
-    archiveName = "AnvilNeverTooExpensive-1.18.2-${version}.${extension}"
+    archiveName = "AnvilNeverTooExpensive-1.18-${version}.${extension}"
 
     manifest {
         attributes([
