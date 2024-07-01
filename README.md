@@ -99,7 +99,7 @@ Initial release for 1.20.4 Multiloader, supporting Forge, Fabric, and Neoforge
 
 **1.2 - Jul 1, 2024:**
 
-Initial release for 1.20.6 Multiloader, supporting Fabric and Neoforge
+Initial release for Multiloader 1.20.6 and 1.21, supporting Fabric and Neoforge
 
 </details>
 
