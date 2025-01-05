@@ -101,5 +101,13 @@ Initial release for 1.20.4 Multiloader, supporting Forge, Fabric, and Neoforge
 
 Initial release for Multiloader 1.20.6 and 1.21, supporting Fabric and Neoforge
 
+
+* * *
+
+**1.2.1 - Jan 5, 2025:**
+
+Readded support for Forge
+Release for all 1.21.x versions on NeoForge, Fabric, and Forge
+
 </details>
 
