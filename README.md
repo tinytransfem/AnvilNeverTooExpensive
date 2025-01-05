@@ -1,6 +1,6 @@
 #### **![](https://media.forgecdn.net/attachments/description/670282/description_46076aaa-7171-420a-b155-307fd7b9a1c9.png)**
 
-####    **[![](https://img.shields.io/badge/Forge-1.18%20%7C%201.19%20%7C%201.20-orange?style=for-the-badge&labelColor=1E2D44&color=DD984D)]() [![](https://img.shields.io/badge/Fabric-1.20%20%7C%201.21-orange?style=for-the-badge&labelColor=E5E5E5&color=C6BCA5)]() [![](https://img.shields.io/badge/Neoforge-1.20%20%7C%201.21-orange?style=for-the-badge&labelColor=D5E0DF&color=D7742F)]() [![](https://img.shields.io/badge/Twitch-orange?style=for-the-badge&labelColor=DDDDDD&color=2D2D2D&logo=twitch&logoColor=9146FF)](https://www.twitch.tv/tinytransfem) [![](https://img.shields.io/badge/Discord-orange?style=for-the-badge&labelColor=D5E0DF&color=7289DA&logo=discord&logoColor=5865F2)](http://discord.ttf.gay/)**
+####    **[![](https://img.shields.io/badge/Forge-1.18%20%7C%201.19%20%7C%201.20%20%7C%201.21-orange?style=for-the-badge&labelColor=1E2D44&color=DD984D)]() [![](https://img.shields.io/badge/Fabric-1.20%20%7C%201.21-orange?style=for-the-badge&labelColor=E5E5E5&color=C6BCA5)]() [![](https://img.shields.io/badge/Neoforge-1.20%20%7C%201.21-orange?style=for-the-badge&labelColor=D5E0DF&color=D7742F)]() [![](https://img.shields.io/badge/Twitch-orange?style=for-the-badge&labelColor=DDDDDD&color=2D2D2D&logo=twitch&logoColor=9146FF)](https://www.twitch.tv/tinytransfem) [![](https://img.shields.io/badge/Discord-orange?style=for-the-badge&labelColor=D5E0DF&color=7289DA&logo=discord&logoColor=5865F2)](http://discord.ttf.gay/)**
 
 * * *
 
